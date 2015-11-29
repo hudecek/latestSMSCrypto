@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendReceiveSMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="androidSMS">SMSapp</string>
+    <string name="title_activity_receive_sms">ReceiveSmsActivity</string>
+    <string name="title_activity_send_sms">SendSmsActivity</string>
+</resources>
